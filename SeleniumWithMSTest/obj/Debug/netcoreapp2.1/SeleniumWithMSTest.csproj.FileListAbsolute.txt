@@ -1,0 +1,14 @@
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/SeleniumWithMSTest.deps.json
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/SeleniumWithMSTest.runtimeconfig.json
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/SeleniumWithMSTest.runtimeconfig.dev.json
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/SeleniumWithMSTest.dll
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/bin/Debug/netcoreapp2.1/SeleniumWithMSTest.pdb
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/obj/Debug/netcoreapp2.1/SeleniumWithMSTest.csprojAssemblyReference.cache
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/obj/Debug/netcoreapp2.1/SeleniumWithMSTest.csproj.CoreCompileInputs.cache
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/obj/Debug/netcoreapp2.1/SeleniumWithMSTest.AssemblyInfoInputs.cache
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/obj/Debug/netcoreapp2.1/SeleniumWithMSTest.AssemblyInfo.cs
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/obj/Debug/netcoreapp2.1/SeleniumWithMSTest.dll
+/Users/anudeep/Documents/mylearnings/dotnet/SeleniumWithMSTest/SeleniumWithMSTest/obj/Debug/netcoreapp2.1/SeleniumWithMSTest.pdb

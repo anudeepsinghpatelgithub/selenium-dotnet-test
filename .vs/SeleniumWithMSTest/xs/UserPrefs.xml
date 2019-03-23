@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{AD2306C0-98E4-4C30-A37E-FC5A3F6B9010}|Default">
+  <MonoDevelop.Ide.ItemProperties.SeleniumWithMSTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumWithMSTest/Tests/AddComputerTests.cs">
+    <Files>
+      <File FileName="SeleniumWithMSTest/Tests/AddComputerTests.cs" Line="17" Column="17" />
+      <File FileName="SeleniumWithMSTest/Helper/Constants.cs" Line="2" Column="1" />
+      <File FileName="SeleniumWithMSTest/Pages/ComputersPageObject.cs" Line="41" Column="42" />
+      <File FileName="SeleniumWithMSTest/Pages/CommonFunctions.cs" Line="18" Column="10" />
+      <File FileName="SeleniumWithMSTest/Pages/ComputerOperationPage.cs" Line="68" Column="112" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumWithMSTest" expanded="True">
+            <Node name="SeleniumWithMSTest" expanded="True">
+              <Node name="Helper" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="AddComputerTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumWithMSTest" expanded="True">
+            <Node name="SeleniumWithMSTest" expanded="True">
+              <Node name="SeleniumWithMSTest" expanded="True">
+                <Node name="AddComputerTests" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
